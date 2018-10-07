@@ -1,3 +1,5 @@
 ### InterviewbitSolutions
 
-Solutions to the practice problems of Interviewbit
+This is a collection of my accepted solutions to the problems at Interviewbit. 
+Feel free to suggest improvements
+
